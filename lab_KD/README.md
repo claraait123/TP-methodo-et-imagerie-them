@@ -1,0 +1,1 @@
+A cause d'un soucis avec Google Colab, les outputs des premières cellules (question 1 à 9) ont été supprimées dans la version finale. Il y a donc deux versions une avec les premiers outputs et une autre avec les outputs des cellules répondant à la question 9 (suite de l'entrainement) et la question 10.
